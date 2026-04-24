@@ -49,7 +49,7 @@ Test `.txt` fajlovi nalaze se u folderu `TextFiles/`.
 ## Autori
 
 - Aleksa Bogdanović
-- [Ime partnera]
+- Nikola Simonović
 
 ## Predmet
 
