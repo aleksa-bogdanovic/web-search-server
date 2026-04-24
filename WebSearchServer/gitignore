@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
