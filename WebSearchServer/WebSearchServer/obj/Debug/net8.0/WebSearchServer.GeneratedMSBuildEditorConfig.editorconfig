@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebSearchServer
-build_property.ProjectDir = C:\Users\user\Desktop\Faks\Sistemsko\WebSearchServer\WebSearchServer\WebSearchServer\
+build_property.ProjectDir = D:\Fakultet\III godina\III_godina-projekti\Sistemsko\web-search-server\WebSearchServer\WebSearchServer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Faks\\Sistemsko\\WebSearchServer\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj": {}
+    "D:\\Fakultet\\III godina\\III_godina-projekti\\Sistemsko\\web-search-server\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Faks\\Sistemsko\\WebSearchServer\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj": {
+    "D:\\Fakultet\\III godina\\III_godina-projekti\\Sistemsko\\web-search-server\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Faks\\Sistemsko\\WebSearchServer\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj",
+        "projectUniqueName": "D:\\Fakultet\\III godina\\III_godina-projekti\\Sistemsko\\web-search-server\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj",
         "projectName": "WebSearchServer",
-        "projectPath": "C:\\Users\\user\\Desktop\\Faks\\Sistemsko\\WebSearchServer\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Faks\\Sistemsko\\WebSearchServer\\WebSearchServer\\WebSearchServer\\obj\\",
+        "projectPath": "D:\\Fakultet\\III godina\\III_godina-projekti\\Sistemsko\\web-search-server\\WebSearchServer\\WebSearchServer\\WebSearchServer.csproj",
+        "packagesPath": "C:\\Users\\nikola\\.nuget\\packages\\",
+        "outputPath": "D:\\Fakultet\\III godina\\III_godina-projekti\\Sistemsko\\web-search-server\\WebSearchServer\\WebSearchServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nikola\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\user\\.dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
