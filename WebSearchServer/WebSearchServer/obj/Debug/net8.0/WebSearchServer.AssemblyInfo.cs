@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebSearchServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb73ada951f564df711a7cf7bfb3eabd7d6a1bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b00c0f94c38ddfdd843b18092de9b7a0ade551")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebSearchServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebSearchServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
