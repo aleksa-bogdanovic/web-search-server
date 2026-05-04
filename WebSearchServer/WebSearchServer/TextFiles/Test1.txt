@@ -1,1 +1,4 @@
-﻿test sistemosko programiranje projekat server
+﻿Sistemsko programiranje je oblast računarstva koja se bavi razvojem softvera bliskog hardveru.
+Na ovom predmetu se izučava sistemsko programiranje kao obavezan predmet.
+Projekat iz sistemskog programiranja podrazumeva rad sa nitima i sinhronizacijom.
+Elektronski fakultet je fakultet u Nišu poznat po kvalitetnom obrazovanju iz oblasti sistemskog programiranja.
