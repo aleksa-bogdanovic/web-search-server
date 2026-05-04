@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using WebSearchServer.Cache;
 using WebSearchServer.Logging;
 using WebSearchServer.Response;
@@ -27,7 +29,7 @@ namespace WebSearchServer.Server
             
             try
             {
-                string rawUrl = context.Request.Url.AbsolutePath.TrimEnd('/');
+                string rawUrl = context.Request.Url.AbsolutePath.TrimStart('/');
                 List<string> keywords = new List<string>(rawUrl.Split('&'));
                 string cacheKey = string.Join("&", keywords);
                 
