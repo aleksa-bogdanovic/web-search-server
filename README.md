@@ -53,4 +53,4 @@ Test `.txt` fajlovi nalaze se u folderu `TextFiles/`.
 
 ## Predmet
 
-Sistemsko Programiranje — Elektrotehnički fakultet
+Sistemsko Programiranje — Elektronski fakultet
