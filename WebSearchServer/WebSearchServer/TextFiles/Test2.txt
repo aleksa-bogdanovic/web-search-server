@@ -1,0 +1,3 @@
+﻿Веб razvoj obuhvata izradu sajtova i aplikacija.
+Backend programiranje koristi jezike poput C# i Jave.
+Baze podataka su važan deo svakog projekta. 
