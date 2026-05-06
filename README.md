@@ -133,4 +133,4 @@ Testiranje sa 50 paralelnih zahteva pokazalo je stabilno ponašanje:
 
 ## Predmet
 
-Sistemsko Programiranje — Elektrotehnički fakultet
+Sistemsko Programiranje — Elektrosnkski fakultet
