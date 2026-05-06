@@ -129,7 +129,8 @@ Testiranje sa 50 paralelnih zahteva pokazalo je stabilno ponašanje:
 ## Autori
 
 - Aleksa Bogdanović
-- Nikola Stojković
+- Nikola Simonović
+  
 
 ## Predmet
 
